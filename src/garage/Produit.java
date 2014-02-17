@@ -8,6 +8,7 @@ public class Produit {
 	private String nom;
 	private double quantite;
 	private double ok;
+	private String test;
 	
 	public Produit()
 	{
