@@ -7,6 +7,7 @@ public class Produit {
 	private ArrayList<Parametre> parametres;
 	private String nom;
 	private double quantite;
+	private double ok;
 	
 	public Produit()
 	{
