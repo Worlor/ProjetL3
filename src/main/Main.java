@@ -1,10 +1,10 @@
-package view;
-
-import garage.Voiture;
+package main;
 
 import java.awt.EventQueue;
 
 import javax.swing.JFrame;
+
+import vehicule.ModelVoiture;
 
 public class Main {
 
