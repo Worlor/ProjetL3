@@ -1,0 +1,980 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.6" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true">  
+  <class id="1" language="java" name="lib.SpringUtilities" project="ProjetL3" 
+    file="/ProjetL3/src/lib/SpringUtilities.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="282" x="310" y="217"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="vehicule.ModelMoto" project="ProjetL3" 
+    file="/ProjetL3/src/vehicule/ModelMoto.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="296" x="447" y="2743"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="3" language="java" name="enums.FacturationChamps" project="ProjetL3" 
+    file="/ProjetL3/src/enums/FacturationChamps.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="218" x="2959" y="2051"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="4" language="java" name="gestionVehicule.ModelGestionVehicule" project="ProjetL3" 
+    file="/ProjetL3/src/gestionVehicule/ModelGestionVehicule.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="242" x="2090" y="2051"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="vehicule.ModelCamion" project="ProjetL3" 
+    file="/ProjetL3/src/vehicule/ModelCamion.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="308" x="783" y="2743"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="facturation.ModelListFacturation" project="ProjetL3" 
+    file="/ProjetL3/src/facturation/ModelListFacturation.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="185" x="2171" y="1017"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="vehicule.ModelBus" project="ProjetL3" file="/ProjetL3/src/vehicule/ModelBus.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="292" x="1131" y="2743"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="facturation.ViewPanelFacturation.SupprimerFacture" project="ProjetL3" 
+    file="/ProjetL3/src/facturation/ViewPanelFacturation.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="194" x="3233" y="1516"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="vehicule.ModelAbstractVehicule" project="ProjetL3" 
+    file="/ProjetL3/src/vehicule/ModelAbstractVehicule.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="297" width="387" x="956" y="2406"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="vehicule.ViewFrameVehicule" project="ProjetL3" 
+    file="/ProjetL3/src/vehicule/ViewFrameVehicule.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="315" width="419" x="1340" y="2051"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="facturation.ViewFrameFacturation.ExporterFacture" project="ProjetL3" 
+    file="/ProjetL3/src/facturation/ViewFrameFacturation.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="194" x="2681" y="1516"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="facturation.ViewPanelFacturation.AjouterFacture" project="ProjetL3" 
+    file="/ProjetL3/src/facturation/ViewPanelFacturation.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="194" x="3467" y="1516"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="vehicule.EventVehiculeChanged" project="ProjetL3" 
+    file="/ProjetL3/src/vehicule/EventVehiculeChanged.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="377" x="632" y="217"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="facturation.ViewPanelFacturation" project="ProjetL3" 
+    file="/ProjetL3/src/facturation/ViewPanelFacturation.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="388" x="2955" y="1017"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="stock.ViewPanelStock" project="ProjetL3" 
+    file="/ProjetL3/src/stock/ViewPanelStock.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="307" x="4073" y="217"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="stock.ViewPanelStock.rendererTable" project="ProjetL3" 
+    file="/ProjetL3/src/stock/ViewPanelStock.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="421" x="3163" y="626"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="main.SerializableModel" project="ProjetL3" 
+    file="/ProjetL3/src/main/SerializableModel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="400" x="2130" y="626"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="main.Main.ActionEnregistrer" project="ProjetL3" 
+    file="/ProjetL3/src/main/Main.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="194" x="1620" y="626"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="gestionVehicule.ViewPanelGestionVehicule.SupprimerVehicule" project="ProjetL3" 
+    file="/ProjetL3/src/gestionVehicule/ViewPanelGestionVehicule.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="194" x="704" y="1017"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="lib.MissingIcon" project="ProjetL3" file="/ProjetL3/src/lib/MissingIcon.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="229" x="1049" y="217"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="gestionVehicule.ViewPanelGestionVehicule" project="ProjetL3" 
+    file="/ProjetL3/src/gestionVehicule/ViewPanelGestionVehicule.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="460" x="937" y="626"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="gestionVehicule.ViewPanelGestionVehicule.AjouterVehicule" project="ProjetL3" 
+    file="/ProjetL3/src/gestionVehicule/ViewPanelGestionVehicule.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="194" x="938" y="1017"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="23" language="java" name="enums.VehiculesTypes" project="ProjetL3" 
+    file="/ProjetL3/src/enums/VehiculesTypes.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="152" x="1318" y="217"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <interface id="24" language="java" name="vehicule.EventListenerVehicule" project="ProjetL3" 
+    file="/ProjetL3/src/vehicule/EventListenerVehicule.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="251" x="1799" y="2051"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="25" language="java" name="facturation.EventListenerFacturation" project="ProjetL3" 
+    file="/ProjetL3/src/facturation/EventListenerFacturation.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="278" x="2641" y="2051"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="26" language="java" name="vehicule.ViewFrameVehicule.SupprimerImage" project="ProjetL3" 
+    file="/ProjetL3/src/vehicule/ViewFrameVehicule.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="194" x="1383" y="2406"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="27" language="java" name="enums.VehiculesChamps" project="ProjetL3" 
+    file="/ProjetL3/src/enums/VehiculesChamps.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="279" width="192" x="1108" y="1516"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="28" language="java" name="vehicule.ViewFrameVehicule.AjouterImage" project="ProjetL3" 
+    file="/ProjetL3/src/vehicule/ViewFrameVehicule.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="194" x="1617" y="2406"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="29" language="java" name="stock.EventStockChanged" project="ProjetL3" 
+    file="/ProjetL3/src/stock/EventStockChanged.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="207" x="1510" y="217"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="30" language="java" name="facturation.EventFacturationChanged" project="ProjetL3" 
+    file="/ProjetL3/src/facturation/EventFacturationChanged.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="261" width="545" x="371" y="2051"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="31" language="java" name="lib.FileNameFilter.Utils" project="ProjetL3" 
+    file="/ProjetL3/src/lib/FileNameFilter.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="315" width="143" x="1437" y="626"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="32" language="java" name="stock.ModelTableStock" project="ProjetL3" 
+    file="/ProjetL3/src/stock/ModelTableStock.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="224" x="4113" y="1017"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="33" language="java" name="main.Main" project="ProjetL3" file="/ProjetL3/src/main/Main.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="333" width="200" x="2130" y="217"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="34" language="java" name="stock.ModelStock" project="ProjetL3" file="/ProjetL3/src/stock/ModelStock.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="423" width="252" x="3985" y="1516"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="35" language="java" name="facturation.ModelTableFacturation" project="ProjetL3" 
+    file="/ProjetL3/src/facturation/ModelTableFacturation.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="278" x="2915" y="1516"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="36" language="java" name="facturation.ViewFrameFacturation" project="ProjetL3" 
+    file="/ProjetL3/src/facturation/ViewFrameFacturation.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="459" width="456" x="2417" y="1017"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="37" language="java" name="gestionVehicule.ControllerGestionVehicule" project="ProjetL3" 
+    file="/ProjetL3/src/gestionVehicule/ControllerGestionVehicule.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="261" width="302" x="1767" y="1516"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="38" language="java" name="stock.EventListenerStock" project="ProjetL3" 
+    file="/ProjetL3/src/stock/EventListenerStock.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="224" x="4458" y="1516"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="39" language="java" name="stock.ViewPanelStock.AjouterStock" project="ProjetL3" 
+    file="/ProjetL3/src/stock/ViewPanelStock.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="194" x="3624" y="626"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="40" language="java" name="enums.StockEtat" project="ProjetL3" 
+    file="/ProjetL3/src/enums/StockEtat.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="159" x="1757" y="217"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="41" language="java" name="facturation.ControllerFacturation" project="ProjetL3" 
+    file="/ProjetL3/src/facturation/ControllerFacturation.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="351" width="511" x="2591" y="626"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="42" language="java" name="stock.ModelListStock" project="ProjetL3" 
+    file="/ProjetL3/src/stock/ModelListStock.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="158" x="3383" y="1017"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="43" language="java" name="vehicule.ControllerVehicule" project="ProjetL3" 
+    file="/ProjetL3/src/vehicule/ControllerVehicule.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="344" x="956" y="2051"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="44" language="java" name="gestionVehicule.ModelTableGestionVehicule" project="ProjetL3" 
+    file="/ProjetL3/src/gestionVehicule/ModelTableGestionVehicule.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="289" x="1172" y="1017"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="45" language="java" name="lib.FileNameFilter" project="ProjetL3" 
+    file="/ProjetL3/src/lib/FileNameFilter.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="134" x="1956" y="217"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="46" language="java" name="enums.StockChamps" project="ProjetL3" 
+    file="/ProjetL3/src/enums/StockChamps.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="141" x="4277" y="1516"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="47" language="java" name="stock.ViewPanelStock.SupprimerStock" project="ProjetL3" 
+    file="/ProjetL3/src/stock/ViewPanelStock.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="194" x="3858" y="626"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="48" language="java" name="facturation.ModelFacturation" project="ProjetL3" 
+    file="/ProjetL3/src/facturation/ModelFacturation.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="495" width="469" x="2151" y="1516"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="49" language="java" name="vehicule.ViewAbstractVehicule" project="ProjetL3" 
+    file="/ProjetL3/src/vehicule/ViewAbstractVehicule.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="230" x="1340" y="1516"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="50" language="java" name="stock.ControllerStock" project="ProjetL3" 
+    file="/ProjetL3/src/stock/ControllerStock.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="333" width="303" x="4113" y="626"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="51" language="java" name="vehicule.ModelVoiture" project="ProjetL3" 
+    file="/ProjetL3/src/vehicule/ModelVoiture.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="307" x="1463" y="2743"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="52" language="java" name="main.Main.ActionOuvrir" project="ProjetL3" file="/ProjetL3/src/main/Main.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="194" x="1854" y="626"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="53" language="java" name="stock.ViewFrameStock" project="ProjetL3" 
+    file="/ProjetL3/src/stock/ViewFrameStock.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="369" width="248" x="4437" y="217"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="54">    
+    <end type="SOURCE" refId="43" navigable="false">      
+      <attribute id="55" name="view"/>      
+      <multiplicity id="56" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="49" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="57">    
+    <end type="SOURCE" refId="35"/>    
+    <end type="TARGET" refId="25"/>  
+  </realization>  
+  <association id="58">    
+    <end type="SOURCE" refId="32" navigable="false">      
+      <attribute id="59" name="controller"/>      
+      <multiplicity id="60" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="50" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="61">    
+    <bendpoint x="4467" y="626"/>    
+    <bendpoint x="4467" y="1017"/>    
+    <end type="SOURCE" refId="53"/>    
+    <end type="TARGET" refId="38"/>  
+  </realization>  
+  <association id="62">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="63" name="models"/>      
+      <multiplicity id="64" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="48" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="65">    
+    <bendpoint x="3132" y="626"/>    
+    <end type="SOURCE" refId="33" navigable="false">      
+      <attribute id="66" name="modelStock"/>      
+      <multiplicity id="67" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="42" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="68">    
+    <end type="SOURCE" refId="41" navigable="false">      
+      <attribute id="69" name="model"/>      
+      <multiplicity id="70" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="71">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="39"/>  
+  </nesting>  
+  <association id="72">    
+    <end type="SOURCE" refId="44" navigable="false">      
+      <attribute id="73" name="controller"/>      
+      <multiplicity id="74" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="37" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="75">    
+    <end type="SOURCE" refId="53" navigable="false">      
+      <attribute id="76" name="controller"/>      
+      <multiplicity id="77" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="50" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="78">    
+    <end type="SOURCE" refId="41" navigable="false">      
+      <attribute id="79" name="view"/>      
+      <multiplicity id="80" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="36" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="81">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="82" name="modelStock"/>      
+      <multiplicity id="83" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="42" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="84">    
+    <bendpoint x="2078" y="626"/>    
+    <bendpoint x="2078" y="1017"/>    
+    <end type="SOURCE" refId="33" navigable="false">      
+      <attribute id="85" name="controllerGestionVehicule"/>      
+      <multiplicity id="86" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="37" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="87">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="12"/>  
+  </nesting>  
+  <generalization id="88">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="9"/>  
+  </generalization>  
+  <association id="89">    
+    <bendpoint x="4082" y="626"/>    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="90" name="model"/>      
+      <multiplicity id="91" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="32" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="92">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="16"/>  
+  </nesting>  
+  <association id="93">    
+    <bendpoint x="1491" y="1017"/>    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="94" name="controller"/>      
+      <multiplicity id="95" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="37" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="96">    
+    <end type="SOURCE" refId="37" navigable="false">      
+      <attribute id="97" name="model"/>      
+      <multiplicity id="98" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="99">    
+    <end type="SOURCE" refId="32" navigable="false">      
+      <attribute id="100" name="entetes"/>      
+      <multiplicity id="101" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="46" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="102">    
+    <bendpoint x="2099" y="626"/>    
+    <bendpoint x="2099" y="1017"/>    
+    <bendpoint x="2099" y="1516"/>    
+    <end type="SOURCE" refId="33" navigable="false">      
+      <attribute id="103" name="modelGestionVehicule"/>      
+      <multiplicity id="104" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="105">    
+    <bendpoint x="1512" y="1017"/>    
+    <end type="SOURCE" refId="37" navigable="false">      
+      <attribute id="106" name="view"/>      
+      <multiplicity id="107" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="108">    
+    <end type="SOURCE" refId="50" navigable="false">      
+      <attribute id="109" name="model"/>      
+      <multiplicity id="110" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="42" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="111">    
+    <end type="SOURCE" refId="33"/>    
+    <end type="TARGET" refId="52"/>  
+  </nesting>  
+  <association id="112">    
+    <end type="SOURCE" refId="33" navigable="false">      
+      <attribute id="113" name="controllerStock"/>      
+      <multiplicity id="114" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="50" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="115">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="116" name="model"/>      
+      <multiplicity id="117" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="35" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="118">    
+    <end type="SOURCE" refId="37" navigable="false">      
+      <attribute id="119" name="table"/>      
+      <multiplicity id="120" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="44" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="121">    
+    <end type="SOURCE" refId="50" navigable="false">      
+      <attribute id="122" name="panelStock"/>      
+      <multiplicity id="123" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="124">    
+    <end type="SOURCE" refId="33" navigable="false">      
+      <attribute id="125" name="serialModel"/>      
+      <multiplicity id="126" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="127">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="9"/>  
+  </generalization>  
+  <realization id="128">    
+    <end type="SOURCE" refId="37"/>    
+    <end type="TARGET" refId="24"/>  
+  </realization>  
+  <association id="129">    
+    <end type="SOURCE" refId="36" navigable="false">      
+      <attribute id="130" name="model"/>      
+      <multiplicity id="131" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="48" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="132">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="9"/>  
+  </generalization>  
+  <association id="133">    
+    <end type="SOURCE" refId="50" navigable="false">      
+      <attribute id="134" name="table"/>      
+      <multiplicity id="135" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="32" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="136">    
+    <bendpoint x="2903" y="1017"/>    
+    <end type="SOURCE" refId="41" navigable="false">      
+      <attribute id="137" name="table"/>      
+      <multiplicity id="138" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="35" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="139">    
+    <end type="SOURCE" refId="42" navigable="false">      
+      <attribute id="140" name="models"/>      
+      <multiplicity id="141" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="34" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="142">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="143" name="controller"/>      
+      <multiplicity id="144" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="41" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="145">    
+    <end type="SOURCE" refId="33" navigable="false">      
+      <attribute id="146" name="controllerFacturation"/>      
+      <multiplicity id="147" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="41" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="148">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="149" name="controller"/>      
+      <multiplicity id="150" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="50" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="151">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="22"/>  
+  </nesting>  
+  <realization id="152">    
+    <end type="SOURCE" refId="49"/>    
+    <end type="TARGET" refId="24"/>  
+  </realization>  
+  <nesting id="153">    
+    <end type="SOURCE" refId="36"/>    
+    <end type="TARGET" refId="11"/>  
+  </nesting>  
+  <association id="154">    
+    <bendpoint x="4446" y="626"/>    
+    <bendpoint x="4446" y="1017"/>    
+    <end type="SOURCE" refId="53" navigable="false">      
+      <attribute id="155" name="model"/>      
+      <multiplicity id="156" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="34" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="157">    
+    <end type="SOURCE" refId="35" navigable="false">      
+      <attribute id="158" name="entetes"/>      
+      <multiplicity id="159" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="160">    
+    <bendpoint x="2560" y="626"/>    
+    <end type="SOURCE" refId="33" navigable="false">      
+      <attribute id="161" name="modelFacturation"/>      
+      <multiplicity id="162" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="163">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="8"/>  
+  </nesting>  
+  <nesting id="164">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="19"/>  
+  </nesting>  
+  <realization id="165">    
+    <bendpoint x="2650" y="1516"/>    
+    <end type="SOURCE" refId="36"/>    
+    <end type="TARGET" refId="25"/>  
+  </realization>  
+  <nesting id="166">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="28"/>  
+  </nesting>  
+  <nesting id="167">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="47"/>  
+  </nesting>  
+  <association id="168">    
+    <bendpoint x="2924" y="1017"/>    
+    <end type="SOURCE" refId="35" navigable="false">      
+      <attribute id="169" name="controller"/>      
+      <multiplicity id="170" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="41" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="171">    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="172" name="model"/>      
+      <multiplicity id="173" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="44" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="174">    
+    <end type="SOURCE" refId="45"/>    
+    <end type="TARGET" refId="31"/>  
+  </nesting>  
+  <association id="175">    
+    <end type="SOURCE" refId="50" navigable="false">      
+      <attribute id="176" name="view"/>      
+      <multiplicity id="177" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="53" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="178">    
+    <end type="SOURCE" refId="32"/>    
+    <end type="TARGET" refId="38"/>  
+  </realization>  
+  <association id="179">    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="180" name="vehicule"/>      
+      <multiplicity id="181" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="182">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="183" name="modelFacturation"/>      
+      <multiplicity id="184" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="185">    
+    <end type="SOURCE" refId="51"/>    
+    <end type="TARGET" refId="9"/>  
+  </generalization>  
+  <association id="186">    
+    <bendpoint x="2362" y="2051"/>    
+    <end type="SOURCE" refId="48" navigable="false">      
+      <attribute id="187" name="vehicule"/>      
+      <multiplicity id="188" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="189">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="190" name="models"/>      
+      <multiplicity id="191" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="192">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="26"/>  
+  </nesting>  
+  <association id="193">    
+    <end type="SOURCE" refId="41" navigable="false">      
+      <attribute id="194" name="panelStock"/>      
+      <multiplicity id="195" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="196">    
+    <end type="SOURCE" refId="36" navigable="false">      
+      <attribute id="197" name="controllerGestionVehicule"/>      
+      <multiplicity id="198" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="37" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="199">    
+    <end type="SOURCE" refId="33"/>    
+    <end type="TARGET" refId="18"/>  
+  </nesting>  
+  <association id="200">    
+    <end type="SOURCE" refId="44" navigable="false">      
+      <attribute id="201" name="entetes"/>      
+      <multiplicity id="202" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="203">    
+    <end type="SOURCE" refId="49" navigable="false">      
+      <attribute id="204" name="controller"/>      
+      <multiplicity id="205" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="43" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="206">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="49"/>  
+  </generalization>  
+  <association id="207">    
+    <end type="SOURCE" refId="43" navigable="false">      
+      <attribute id="208" name="model"/>      
+      <multiplicity id="209" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="210">    
+    <end type="SOURCE" refId="36" navigable="false">      
+      <attribute id="211" name="controller"/>      
+      <multiplicity id="212" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="41" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="213">    
+    <bendpoint x="2120" y="1017"/>    
+    <bendpoint x="2120" y="1516"/>    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="214" name="modelVehicule"/>      
+      <multiplicity id="215" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="216">    
+    <bendpoint x="2386" y="1017"/>    
+    <end type="SOURCE" refId="41" navigable="false">      
+      <attribute id="217" name="controllerGestionVehicule"/>      
+      <multiplicity id="218" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="37" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
